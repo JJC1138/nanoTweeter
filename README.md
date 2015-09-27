@@ -1,3 +1,5 @@
+**_This project is unmaintained. I recommend all users move to an alternative app._**
+
 # nanoTweeter
 This application is a very simple client for the social/microblogging service [Twitter](http://twitter.com/). It works on [Android](http://www.android.com/) phones.
 
